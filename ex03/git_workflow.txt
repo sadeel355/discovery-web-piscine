@@ -1,0 +1,4 @@
+1. Edit: Created README.md and status.txt
+2. Add: git add README.md status.txt
+3. Commit: git commit -m "feat: add comprehensive README and workflow documentation"
+4. Push: git push -u origin main

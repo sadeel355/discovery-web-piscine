@@ -1,0 +1,3 @@
+--- Contents of draft.txt ---
+This is the first line of the draft.
+This is the appended second line.
